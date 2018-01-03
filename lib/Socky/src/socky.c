@@ -20,7 +20,7 @@
  * DEALINGS IN THE SOFTWARE.
  */
 
-#include "socky.h"
+#include "../include/socky.h"
 
 #include <assert.h>
 #include <stdlib.h>
